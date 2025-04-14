@@ -78,13 +78,5 @@ The dataset contains the following columns:
 - Introduce **RFM analysis** or **clustering algorithms** (e.g., K-Means).
 - Create an interactive dashboard using **Plotly** or **Power BI**.
 
----
-
-## 📂 Project Structure
-Fashion-Retail-Analysis/
-
-├── data/                      # Raw and processed datasets
-├── script/                 # Jupyter notebooks for EDA and analysis             
-└── README.md                  # Project overview and documentation
 
 
